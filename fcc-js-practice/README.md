@@ -1,22 +1,32 @@
-# Variables and Strings — JavaScript Practice
+# FreeCodeCamp JavaScript Practice
 
-This folder contains my early JavaScript practice focused on:
+This folder contains my hands-on JavaScript exercises based on the FreeCodeCamp curriculum.
 
-- Declaring variables with `let` and `const`
-- Reassigning variables
-- String concatenation
-- Console output
-- Building sentences dynamically
+The goal is to reinforce core JavaScript fundamentals through small focused scripts and mini exercises.
 
-## Project: Bot Introduction Script
+---
 
-A simple console-based script where a bot introduces itself using variables and string concatenation.
+## Folder Structure
 
-### Concepts Practiced
+### variables-and-strings/
+Practice focused on:
 
-- Variable declaration and reassignment
-- Constants
-- String building with `+`
-- Output using `console.log`
+- Variable declarations
+- String building
+- Template literals
+- Console output scripts
 
-This is part of my FreeCodeCamp JavaScript fundamentals practice.
+Includes small console “bot” programs and fun fact generators.
+
+---
+
+More topic folders will be added as I continue progressing through the curriculum.
+
+---
+
+## Purpose
+
+- Strengthen JavaScript basics
+- Practice writing clean code
+- Build consistent learning habits
+- Track progress publicly

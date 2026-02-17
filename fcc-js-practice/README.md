@@ -16,7 +16,8 @@ Practice focused on:
 - Template literals
 - Console output scripts
 
-Includes small console “bot” programs and fun fact generators.
+Includes small console “bot” programs, fun fact generators, and Mad Libs style story scripts.
+
 
 ---
 

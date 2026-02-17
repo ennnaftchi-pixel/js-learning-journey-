@@ -20,16 +20,5 @@ Practice using variables and string concatenation to build sentences and simulat
 ### coding-fun-facts.js
 Uses template literals and variables to print JavaScript fun facts in a friendly console format.
 
----
-
-## Skills Practiced
-
-- Declaring and reassigning variables
-- Using constants
-- String concatenation with `+`
-- Template literals with backticks
-- Basic console interaction
-
----
-
-More exercises will be added as I progress through JavaScript fundamentals.
+### mad-libs-story.js
+A template-literal Mad Libs style story generator that shows how changing variable values produces a completely different story output.

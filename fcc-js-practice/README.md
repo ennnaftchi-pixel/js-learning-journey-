@@ -18,7 +18,6 @@ Practice focused on:
 
 Includes small console “bot” programs, fun fact generators, and Mad Libs style story scripts.
 
-
 ---
 
 More topic folders will be added as I continue progressing through the curriculum.

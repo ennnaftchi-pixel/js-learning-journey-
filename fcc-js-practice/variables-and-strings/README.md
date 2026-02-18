@@ -22,3 +22,6 @@ Uses template literals and variables to print JavaScript fun facts in a friendly
 
 ### mad-libs-story.js
 A template-literal Mad Libs style story generator that shows how changing variable values produces a completely different story output.
+
+### string-properties.js
+Exercises demonstrating string properties and methods such as `.length`, character indexing, and `.indexOf()`.
